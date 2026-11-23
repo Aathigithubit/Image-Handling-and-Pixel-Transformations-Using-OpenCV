@@ -31,8 +31,8 @@ Display the original, lower contrast, and higher contrast images.
 Split the image (boy.jpg) into B, G, R components and display the channels
 
 ## Program Developed By:
-- **Name:** [Your Name Here]  
-- **Register Number:** [Your Register Number Here]
+- **Name:** AATHI S 
+- **Register Number:** 212223220001
 
   ### Ex. No. 01
 ## Program
@@ -213,30 +213,42 @@ plt.axis("off")
 
 <img width="408" height="508" alt="image" src="https://github.com/user-attachments/assets/d1071d1e-dc58-442e-97f6-d73bbd9b197c" />
 
-<img width="402" height="507" alt="image" src="https://github.com/user-attachments/assets/77d64569-8868-44e0-85ae-
-2b36c22e5f69" />
+
+<img width="402" height="507" alt="image" src="https://github.com/user-attachments/assets/77d64569-8868-44e0-85ae-2b36c22e5f69" />
+
 
 <img width="400" height="497" alt="image" src="https://github.com/user-attachments/assets/9e345882-d49d-48c8-b5db-fd47f324f0ae" />
 
+
 <img width="401" height="507" alt="image" src="https://github.com/user-attachments/assets/91dbbff3-97b8-43f7-87a1-1f635c858cbd" />
+
 
 <img width="405" height="507" alt="image" src="https://github.com/user-attachments/assets/1c96a825-ec23-4ab1-8964-d84902013c9d" />
 
+
 <img width="400" height="512" alt="image" src="https://github.com/user-attachments/assets/6c639077-23f5-4853-b2a3-d7753592fa08" />
+
 
 <img width="401" height="501" alt="image" src="https://github.com/user-attachments/assets/650f2c22-4fd9-414b-a086-915ca1eaf5af" />
 
+
 <img width="402" height="506" alt="image" src="https://github.com/user-attachments/assets/f857accd-3a8a-4bd6-89eb-100d954db6d6" />
+
 
 <img width="410" height="512" alt="image" src="https://github.com/user-attachments/assets/bcc821d6-ac39-47ef-89b1-8eae0281fd1e" />
 
+
 <img width="402" height="512" alt="image" src="https://github.com/user-attachments/assets/5a2dd8b1-e0ea-4c62-a473-b80cd24ced4b" />
+
 
 <img width="607" height="500" alt="image" src="https://github.com/user-attachments/assets/67c2a18e-a8c9-4240-b61e-a1d137f66fab" />
 
+
 <img width="425" height="515" alt="image" src="https://github.com/user-attachments/assets/7763a0c1-213e-4da9-b262-76de4b150a2d" />
 
+
 <img width="408" height="516" alt="image" src="https://github.com/user-attachments/assets/a795068b-f103-4b58-98f5-e82d84efc67f" />
+
 
 <img width="412" height="512" alt="image" src="https://github.com/user-attachments/assets/396ebbfa-a32e-4353-a34e-c777cbcbc577" />
 
